@@ -5,7 +5,7 @@
 [![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-orange.svg)](https://neo4j.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Staging-green.svg)](https://www.mongodb.com/)
 
-**Author:** EivorRrz
+**Author:** Amit_Mishra
 
 A production-ready ETL pipeline that converts unstructured business documents (PDF, DOCX, TXT) into Neo4j graph databases. The system uses Large Language Models to extract graph schemas and generate Cypher queries, implementing a staged processing architecture with MongoDB as a staging layer for auditability and resumability.
 
