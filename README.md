@@ -1,7 +1,6 @@
 # Document-to-Graph Pipeline
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-orange.svg)](https://neo4j.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Staging-green.svg)](https://www.mongodb.com/)
 
@@ -763,11 +762,6 @@ Contributions are welcome. Please submit pull requests with clear descriptions o
 
 ---
 
-## License
-
-MIT License - see LICENSE file for details
-
----
 
 ## Acknowledgments
 
